@@ -1,4 +1,5 @@
 *** Settings ***
+Force Tags  TUBII-5
 Library    SeleniumLibrary
 Test Teardown    Close Browser
 *** Test Cases ***
